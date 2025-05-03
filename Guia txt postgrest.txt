@@ -1,0 +1,1 @@
+postgresql://[BASE DE DATOS]:[NOMBRE PROYECTO]@[IP LAPTOP]:5432/[BASE DE DATOS]?sslmode=disable
