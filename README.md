@@ -44,7 +44,7 @@ Todo el flujo se realiza mediante un agente supervisado de LangChain, usando her
 
 ### 3.1 Ejecutar en Google Colab o Localmente
 
-1. Clonar este repositorio o abrir el archivo `MemoriaAplicadalangchain.ipynb`.
+1. Clonar este repositorio o abrir el archivo `Proyecto_Luis_Lazarte22.ipynb`.
 2. Instalar **PGAdmin 4** y **PostgreSQL**.
 3. Importar las tablas de ingresos, gastos y programas educativos en PGAdmin 4.
 4. Tener dos archivos `.txt`:
